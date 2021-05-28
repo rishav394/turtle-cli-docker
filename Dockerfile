@@ -18,4 +18,4 @@ RUN export JAVA_HOME
 
 RUN npm i -g --unsafe-perm expo-cli turtle-cli
 
-RUN turtle setup:android --sdk-version 40.0.0
+RUN turtle setup:android --sdk-version 41.0.0
